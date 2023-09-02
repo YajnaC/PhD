@@ -1,0 +1,29 @@
+----------------------------------------
+Begin Batch Job Prologue Tue Mar 28 11:28:21 EDT 2023
+Job ID:           64922
+Username:         tul08298
+Group:            cph
+Job Name:         count_aim3_nbin_wcov
+Resources List:   walltime=48:00:00,nodes=1:ppn=4,neednodes=1:ppn=4
+Queue:            compute
+Account:          
+Nodes:            c08 
+----------------------------------------
+End Batch Job Prologue Tue Mar 28 11:28:22 EDT 2023
+----------------------------------------
+Found 4 tasks in task list file 'cmds2'.
+Distributing tasks to 4 processors.
+----------------------------------------
+Begin Batch Job Epilogue Wed Mar 29 14:59:52 EDT 2023
+Job ID:           64922
+Username:         tul08298
+Group:            cph
+Job Name:         count_aim3_nbin_wcov
+Session:          30921
+Limits:           walltime=48:00:00,nodes=1:ppn=4,neednodes=1:ppn=4
+Resources:        cput=109:00:46,vmem=2463572kb,walltime=27:31:31,mem=1155612kb,energy_used=0
+Queue:            compute
+Account:          
+----------------------------------------
+End Batch Job Epilogue Wed Mar 29 15:00:02 EDT 2023
+----------------------------------------

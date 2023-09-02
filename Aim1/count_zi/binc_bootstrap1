@@ -1,0 +1,15 @@
+#!/bin/sh
+#PBS -l walltime=6:00:00
+#PBS -N binc_bootstrap1
+#PBS -l nodes=1:ppn=1
+
+# Load R
+module load r/4.1.2
+
+# change to directory where 'qsub' was called
+cd $PBS_O_WORKDIR
+
+# run my program
+Rscript ./binc_438.R > binc_438.out
+
+# torque-launch cmds1

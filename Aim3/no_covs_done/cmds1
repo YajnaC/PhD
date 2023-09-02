@@ -1,0 +1,6 @@
+# Run my programs
+
+Rscript ./count_vp.R > count_vp.out
+Rscript ./count_vf.R > count_vf.out
+Rscript ./count_cp.R > count_cp.out
+Rscript ./count_cf.R > count_cf.out

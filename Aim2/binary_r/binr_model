@@ -1,0 +1,12 @@
+#!/bin/sh
+#PBS -l walltime=12:00:00
+#PBS -N binr_model
+#PBS -l nodes=1:ppn=3
+
+# Load R
+module load r/4.1.2
+
+# change to directory where 'qsub' was called
+cd $PBS_O_WORKDIR
+
+torque-launch runmodel

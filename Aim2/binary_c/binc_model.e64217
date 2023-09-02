@@ -1,0 +1,108 @@
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Loading required package: profileModel
+Loading required package: profileModel
+'brglm' will gradually be superseded by the 'brglm2' R package (https://cran.r-project.org/package=brglm2), which provides utilities for mean and median bias reduction for all GLMs.
+ Methods for the detection of separation and infinite estimates in binomial-response models are provided by the 'detectseparation' R package (https://cran.r-project.org/package=detectseparation).
+'brglm' will gradually be superseded by the 'brglm2' R package (https://cran.r-project.org/package=brglm2), which provides utilities for mean and median bias reduction for all GLMs.
+ Methods for the detection of separation and infinite estimates in binomial-response models are provided by the 'detectseparation' R package (https://cran.r-project.org/package=detectseparation).
+Loading required package: profileModel
+'brglm' will gradually be superseded by the 'brglm2' R package (https://cran.r-project.org/package=brglm2), which provides utilities for mean and median bias reduction for all GLMs.
+ Methods for the detection of separation and infinite estimates in binomial-response models are provided by the 'detectseparation' R package (https://cran.r-project.org/package=detectseparation).
+Loading required package: doParallel
+Loading required package: doParallel
+Loading required package: doParallel
+Loading required package: foreach
+Loading required package: foreach
+Loading required package: foreach
+Loading required package: iterators
+Loading required package: iterators
+Loading required package: iterators
+Loading required package: parallel
+Loading required package: parallel
+Loading required package: parallel
+Loading required package: numDeriv
+Loading required package: numDeriv
+Loading required package: numDeriv
+Loading required package: quantreg
+Loading required package: quantreg
+Loading required package: quantreg
+Loading required package: SparseM
+Loading required package: SparseM
+Loading required package: SparseM
+
+Attaching package: 'SparseM'
+
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'turboEM'
+
+
+Attaching package: 'turboEM'
+
+The following objects are masked from 'package:numDeriv':
+
+    grad, hessian
+
+The following objects are masked from 'package:numDeriv':
+
+    grad, hessian
+
+
+Attaching package: 'turboEM'
+
+The following objects are masked from 'package:numDeriv':
+
+    grad, hessian
+
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)

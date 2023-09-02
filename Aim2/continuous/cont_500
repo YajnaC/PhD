@@ -1,0 +1,13 @@
+#!/bin/sh
+#PBS -l walltime=24:00:00
+#PBS -N cont_500
+#PBS -l nodes=1:ppn=1
+
+# Load R
+module load r/4.1.2
+
+# change to directory where 'qsub' was called
+cd $PBS_O_WORKDIR
+
+# run my program
+Rscript ./continuous_model_500.R > continuous_model_500.out

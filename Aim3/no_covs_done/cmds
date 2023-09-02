@@ -1,0 +1,6 @@
+# Run my programs
+
+Rscript ./binary_vp.R > binary_vp.out
+Rscript ./binary_vf.R > binary_vf.out
+Rscript ./binary_cp.R > binary_cp.out
+Rscript ./binary_cf.R > binary_cf.out

@@ -1,0 +1,5 @@
+# Run my programs
+
+Rscript ./count_zi_200.R > count_zi_200.out
+Rscript ./count_zi_500.R > count_zi_500.out
+Rscript ./count_zi_700.R > count_zi_700.out

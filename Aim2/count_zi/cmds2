@@ -1,0 +1,888 @@
+# Run my programs
+
+# Rscript ./binc_1201.R > binc_1201.out
+# Rscript ./binc_1202.R > binc_1202.out
+# Rscript ./binc_1203.R > binc_1203.out
+# Rscript ./binc_1204.R > binc_1204.out
+# Rscript ./binc_1205.R > binc_1205.out
+# Rscript ./binc_1206.R > binc_1206.out
+# Rscript ./binc_1207.R > binc_1207.out
+# Rscript ./binc_1208.R > binc_1208.out
+# Rscript ./binc_1209.R > binc_1209.out
+
+# Rscript ./binc_1210.R > binc_1210.out
+# Rscript ./binc_1211.R > binc_1211.out
+# Rscript ./binc_1212.R > binc_1212.out
+# Rscript ./binc_1213.R > binc_1213.out
+# Rscript ./binc_1214.R > binc_1214.out
+# Rscript ./binc_1215.R > binc_1215.out
+# Rscript ./binc_1216.R > binc_1216.out
+# Rscript ./binc_1217.R > binc_1217.out
+# Rscript ./binc_1218.R > binc_1218.out
+# Rscript ./binc_1219.R > binc_1219.out
+
+# Rscript ./binc_1220.R > binc_1220.out
+# Rscript ./binc_1221.R > binc_1221.out
+# Rscript ./binc_1222.R > binc_1222.out
+# Rscript ./binc_1223.R > binc_1223.out
+# Rscript ./binc_1224.R > binc_1224.out
+
+# Rscript ./binc_1225.R > binc_1225.out
+# Rscript ./binc_1226.R > binc_1226.out
+# Rscript ./binc_1227.R > binc_1227.out
+# Rscript ./binc_1228.R > binc_1228.out
+# Rscript ./binc_1229.R > binc_1229.out
+
+# Rscript ./binc_1230.R > binc_1230.out
+# Rscript ./binc_1231.R > binc_1231.out
+# Rscript ./binc_1232.R > binc_1232.out
+# Rscript ./binc_1233.R > binc_1233.out
+# Rscript ./binc_1234.R > binc_1234.out
+# Rscript ./binc_1235.R > binc_1235.out
+# Rscript ./binc_1236.R > binc_1236.out
+# Rscript ./binc_1237.R > binc_1237.out
+# Rscript ./binc_1238.R > binc_1237.out
+# Rscript ./binc_1239.R > binc_1239.out
+
+# Rscript ./binc_1240.R > binc_1240.out
+# Rscript ./binc_1241.R > binc_1241.out
+# Rscript ./binc_1242.R > binc_1242.out
+# Rscript ./binc_1243.R > binc_1243.out
+# Rscript ./binc_1244.R > binc_1244.out
+# Rscript ./binc_1245.R > binc_1245.out
+# Rscript ./binc_1246.R > binc_1246.out
+# Rscript ./binc_1247.R > binc_1247.out
+# Rscript ./binc_1248.R > binc_1248.out
+# Rscript ./binc_1249.R > binc_1249.out
+
+# Rscript ./binc_1250.R > binc_1250.out
+# Rscript ./binc_1251.R > binc_1251.out
+# Rscript ./binc_1252.R > binc_1252.out
+# Rscript ./binc_1253.R > binc_1253.out
+# Rscript ./binc_1254.R > binc_1254.out
+# Rscript ./binc_1255.R > binc_1255.out
+# Rscript ./binc_1256.R > binc_1256.out
+# Rscript ./binc_1257.R > binc_1257.out
+# Rscript ./binc_1258.R > binc_1258.out
+# Rscript ./binc_1259.R > binc_1259.out
+
+# Rscript ./binc_1260.R > binc_1260.out
+# Rscript ./binc_1261.R > binc_1261.out
+# Rscript ./binc_1262.R > binc_1262.out
+# Rscript ./binc_1263.R > binc_1263.out
+# Rscript ./binc_1264.R > binc_1264.out
+# Rscript ./binc_1265.R > binc_1265.out
+# Rscript ./binc_1266.R > binc_1266.out
+# Rscript ./binc_1267.R > binc_1267.out
+# Rscript ./binc_1268.R > binc_1268.out
+# Rscript ./binc_1269.R > binc_1269.out
+
+# Rscript ./binc_1270.R > binc_1270.out
+# Rscript ./binc_1271.R > binc_1271.out
+# Rscript ./binc_1272.R > binc_1272.out
+
+# Rscript ./binc_1273.R > binc_1273.out
+# Rscript ./binc_1274.R > binc_1274.out
+# Rscript ./binc_1275.R > binc_1275.out
+# Rscript ./binc_1276.R > binc_1276.out
+# Rscript ./binc_1277.R > binc_1277.out
+# Rscript ./binc_1278.R > binc_1278.out
+# Rscript ./binc_1279.R > binc_1279.out
+
+# Rscript ./binc_1280.R > binc_1280.out
+# Rscript ./binc_1281.R > binc_1281.out
+# Rscript ./binc_1282.R > binc_1282.out
+# Rscript ./binc_1283.R > binc_1283.out
+# Rscript ./binc_1284.R > binc_1284.out
+# Rscript ./binc_1285.R > binc_1285.out
+# Rscript ./binc_1286.R > binc_1286.out
+# Rscript ./binc_1287.R > binc_1287.out
+# Rscript ./binc_1288.R > binc_1288.out
+# Rscript ./binc_1289.R > binc_1289.out
+
+# Rscript ./binc_1290.R > binc_1290.out
+# Rscript ./binc_1291.R > binc_1291.out
+# Rscript ./binc_1292.R > binc_1292.out
+# Rscript ./binc_1293.R > binc_1293.out
+# Rscript ./binc_1294.R > binc_1294.out
+# Rscript ./binc_1295.R > binc_1295.out
+# Rscript ./binc_1296.R > binc_1296.out
+
+# Rscript ./binc_1297.R > binc_1297.out
+# Rscript ./binc_1298.R > binc_1298.out
+# Rscript ./binc_1299.R > binc_1299.out
+
+# Rscript ./binc_1300.R > binc_1300.out
+# Rscript ./binc_1301.R > binc_1301.out
+# Rscript ./binc_1302.R > binc_1302.out
+# Rscript ./binc_1303.R > binc_1303.out
+# Rscript ./binc_1304.R > binc_1304.out
+# Rscript ./binc_1305.R > binc_1305.out
+# Rscript ./binc_1306.R > binc_1306.out
+# Rscript ./binc_1307.R > binc_1307.out
+# Rscript ./binc_1308.R > binc_1308.out
+# Rscript ./binc_1309.R > binc_1309.out
+
+# Rscript ./binc_1310.R > binc_1310.out
+# Rscript ./binc_1311.R > binc_1311.out
+# Rscript ./binc_1312.R > binc_1312.out
+# Rscript ./binc_1313.R > binc_1313.out
+# Rscript ./binc_1314.R > binc_1314.out
+# Rscript ./binc_1315.R > binc_1315.out
+# Rscript ./binc_1316.R > binc_1316.out
+# Rscript ./binc_1317.R > binc_1317.out
+# Rscript ./binc_1318.R > binc_1318.out
+# Rscript ./binc_1319.R > binc_1319.out
+
+# Rscript ./binc_1320.R > binc_1320.out
+# Rscript ./binc_1321.R > binc_1321.out
+# Rscript ./binc_1322.R > binc_1322.out
+# Rscript ./binc_1323.R > binc_1323.out
+# Rscript ./binc_1324.R > binc_1324.out
+# Rscript ./binc_1325.R > binc_1325.out
+# Rscript ./binc_1326.R > binc_1326.out
+# Rscript ./binc_1327.R > binc_1327.out
+# Rscript ./binc_1328.R > binc_1328.out
+# Rscript ./binc_1329.R > binc_1329.out
+
+# Rscript ./binc_1330.R > binc_1330.out
+# Rscript ./binc_1331.R > binc_1331.out
+# Rscript ./binc_1332.R > binc_1332.out
+# Rscript ./binc_1333.R > binc_1333.out
+# Rscript ./binc_1334.R > binc_1334.out
+# Rscript ./binc_1335.R > binc_1335.out
+# Rscript ./binc_1336.R > binc_1336.out
+# Rscript ./binc_1337.R > binc_1337.out
+# Rscript ./binc_1338.R > binc_1337.out
+# Rscript ./binc_1339.R > binc_1339.out
+
+# Rscript ./binc_1340.R > binc_1340.out
+# Rscript ./binc_1341.R > binc_1341.out
+# Rscript ./binc_1342.R > binc_1342.out
+# Rscript ./binc_1343.R > binc_1343.out
+# Rscript ./binc_1344.R > binc_1344.out
+# Rscript ./binc_1345.R > binc_1345.out
+# Rscript ./binc_1346.R > binc_1346.out
+# Rscript ./binc_1347.R > binc_1347.out
+# Rscript ./binc_1348.R > binc_1348.out
+# Rscript ./binc_1349.R > binc_1349.out
+
+# Rscript ./binc_1350.R > binc_1350.out
+# Rscript ./binc_1351.R > binc_1351.out
+# Rscript ./binc_1352.R > binc_1352.out
+# Rscript ./binc_1353.R > binc_1353.out
+# Rscript ./binc_1354.R > binc_1354.out
+# Rscript ./binc_1355.R > binc_1355.out
+# Rscript ./binc_1356.R > binc_1356.out
+# Rscript ./binc_1357.R > binc_1357.out
+# Rscript ./binc_1358.R > binc_1358.out
+# Rscript ./binc_1359.R > binc_1359.out
+
+# Rscript ./binc_1360.R > binc_1360.out
+# Rscript ./binc_1361.R > binc_1361.out
+# Rscript ./binc_1362.R > binc_1362.out
+# Rscript ./binc_1363.R > binc_1363.out
+# Rscript ./binc_1364.R > binc_1364.out
+# Rscript ./binc_1365.R > binc_1365.out
+# Rscript ./binc_1366.R > binc_1366.out
+# Rscript ./binc_1367.R > binc_1367.out
+# Rscript ./binc_1368.R > binc_1368.out
+# Rscript ./binc_1369.R > binc_1369.out
+
+# Rscript ./binc_1370.R > binc_1370.out
+# Rscript ./binc_1371.R > binc_1371.out
+# Rscript ./binc_1372.R > binc_1372.out
+# Rscript ./binc_1373.R > binc_1373.out
+# Rscript ./binc_1374.R > binc_1374.out
+# Rscript ./binc_1375.R > binc_1375.out
+# Rscript ./binc_1376.R > binc_1376.out
+# Rscript ./binc_1377.R > binc_1377.out
+# Rscript ./binc_1378.R > binc_1378.out
+# Rscript ./binc_1379.R > binc_1379.out
+
+# Rscript ./binc_1380.R > binc_1380.out
+# Rscript ./binc_1381.R > binc_1381.out
+# Rscript ./binc_1382.R > binc_1382.out
+# Rscript ./binc_1383.R > binc_1383.out
+# Rscript ./binc_1384.R > binc_1384.out
+# Rscript ./binc_1385.R > binc_1385.out
+# Rscript ./binc_1386.R > binc_1386.out
+# Rscript ./binc_1387.R > binc_1387.out
+# Rscript ./binc_1388.R > binc_1388.out
+# Rscript ./binc_1389.R > binc_1389.out
+
+# Rscript ./binc_1390.R > binc_1390.out
+# Rscript ./binc_1391.R > binc_1391.out
+# Rscript ./binc_1392.R > binc_1392.out
+
+# Rscript ./binc_1393.R > binc_1393.out
+# Rscript ./binc_1394.R > binc_1394.out
+# Rscript ./binc_1395.R > binc_1395.out
+# Rscript ./binc_1396.R > binc_1396.out
+# Rscript ./binc_1397.R > binc_1397.out
+# Rscript ./binc_1398.R > binc_1398.out
+# Rscript ./binc_1399.R > binc_1399.out
+
+# Rscript ./binc_1400.R > binc_1400.out
+# Rscript ./binc_1401.R > binc_1401.out
+# Rscript ./binc_1402.R > binc_1402.out
+# Rscript ./binc_1403.R > binc_1403.out
+# Rscript ./binc_1404.R > binc_1404.out
+# Rscript ./binc_1405.R > binc_1405.out
+# Rscript ./binc_1406.R > binc_1406.out
+# Rscript ./binc_1407.R > binc_1407.out
+# Rscript ./binc_1408.R > binc_1408.out
+# Rscript ./binc_1409.R > binc_1409.out
+
+# Rscript ./binc_1410.R > binc_1410.out
+# Rscript ./binc_1411.R > binc_1411.out
+# Rscript ./binc_1412.R > binc_1412.out
+# Rscript ./binc_1413.R > binc_1413.out
+# Rscript ./binc_1414.R > binc_1414.out
+# Rscript ./binc_1415.R > binc_1415.out
+# Rscript ./binc_1416.R > binc_1416.out
+# Rscript ./binc_1417.R > binc_1417.out
+# Rscript ./binc_1418.R > binc_1418.out
+# Rscript ./binc_1419.R > binc_1419.out
+
+# Rscript ./binc_1420.R > binc_1420.out
+# Rscript ./binc_1421.R > binc_1421.out
+# Rscript ./binc_1422.R > binc_1422.out
+# Rscript ./binc_1423.R > binc_1423.out
+# Rscript ./binc_1424.R > binc_1424.out
+# Rscript ./binc_1425.R > binc_1425.out
+# Rscript ./binc_1426.R > binc_1426.out
+# Rscript ./binc_1427.R > binc_1427.out
+# Rscript ./binc_1428.R > binc_1428.out
+# Rscript ./binc_1429.R > binc_1429.out
+
+# Rscript ./binc_1430.R > binc_1430.out
+# Rscript ./binc_1431.R > binc_1431.out
+# Rscript ./binc_1432.R > binc_1432.out
+# Rscript ./binc_1433.R > binc_1433.out
+# Rscript ./binc_1434.R > binc_1434.out
+# Rscript ./binc_1435.R > binc_1435.out
+# Rscript ./binc_1436.R > binc_1436.out
+# Rscript ./binc_1437.R > binc_1437.out
+# Rscript ./binc_1438.R > binc_1437.out
+# Rscript ./binc_1439.R > binc_1439.out
+
+# Rscript ./binc_1440.R > binc_1440.out
+# Rscript ./binc_1441.R > binc_1441.out
+# Rscript ./binc_1442.R > binc_1442.out
+# Rscript ./binc_1443.R > binc_1443.out
+# Rscript ./binc_1444.R > binc_1444.out
+# Rscript ./binc_1445.R > binc_1445.out
+# Rscript ./binc_1446.R > binc_1446.out
+# Rscript ./binc_1447.R > binc_1447.out
+# Rscript ./binc_1448.R > binc_1448.out
+# Rscript ./binc_1449.R > binc_1449.out
+
+# Rscript ./binc_1450.R > binc_1450.out
+# Rscript ./binc_1451.R > binc_1451.out
+# Rscript ./binc_1452.R > binc_1452.out
+# Rscript ./binc_1453.R > binc_1453.out
+# Rscript ./binc_1454.R > binc_1454.out
+# Rscript ./binc_1455.R > binc_1455.out
+# Rscript ./binc_1456.R > binc_1456.out
+# Rscript ./binc_1457.R > binc_1457.out
+# Rscript ./binc_1458.R > binc_1458.out
+# Rscript ./binc_1459.R > binc_1459.out
+
+# Rscript ./binc_1460.R > binc_1460.out
+# Rscript ./binc_1461.R > binc_1461.out
+# Rscript ./binc_1462.R > binc_1462.out
+# Rscript ./binc_1463.R > binc_1463.out
+# Rscript ./binc_1464.R > binc_1464.out
+# Rscript ./binc_1465.R > binc_1465.out
+# Rscript ./binc_1466.R > binc_1466.out
+# Rscript ./binc_1467.R > binc_1467.out
+# Rscript ./binc_1468.R > binc_1468.out
+# Rscript ./binc_1469.R > binc_1469.out
+
+# Rscript ./binc_1470.R > binc_1470.out
+# Rscript ./binc_1471.R > binc_1471.out
+# Rscript ./binc_1472.R > binc_1472.out
+# Rscript ./binc_1473.R > binc_1473.out
+# Rscript ./binc_1474.R > binc_1474.out
+# Rscript ./binc_1475.R > binc_1475.out
+# Rscript ./binc_1476.R > binc_1476.out
+# Rscript ./binc_1477.R > binc_1477.out
+# Rscript ./binc_1478.R > binc_1478.out
+# Rscript ./binc_1479.R > binc_1479.out
+
+# Rscript ./binc_1480.R > binc_1480.out
+# Rscript ./binc_1481.R > binc_1481.out
+# Rscript ./binc_1482.R > binc_1482.out
+# Rscript ./binc_1483.R > binc_1483.out
+# Rscript ./binc_1484.R > binc_1484.out
+# Rscript ./binc_1485.R > binc_1485.out
+# Rscript ./binc_1486.R > binc_1486.out
+# Rscript ./binc_1487.R > binc_1487.out
+# Rscript ./binc_1488.R > binc_1488.out
+# Rscript ./binc_1489.R > binc_1489.out
+
+# Rscript ./binc_1490.R > binc_1490.out
+# Rscript ./binc_1491.R > binc_1491.out
+# Rscript ./binc_1492.R > binc_1492.out
+# Rscript ./binc_1493.R > binc_1493.out
+# Rscript ./binc_1494.R > binc_1494.out
+# Rscript ./binc_1495.R > binc_1495.out
+# Rscript ./binc_1496.R > binc_1496.out
+# Rscript ./binc_1497.R > binc_1497.out
+# Rscript ./binc_1498.R > binc_1498.out
+# Rscript ./binc_1499.R > binc_1499.out
+
+# Rscript ./binc_1500.R > binc_1500.out
+# Rscript ./binc_1501.R > binc_1501.out
+# Rscript ./binc_1502.R > binc_1502.out
+# Rscript ./binc_1503.R > binc_1503.out
+# Rscript ./binc_1504.R > binc_1504.out
+# Rscript ./binc_1505.R > binc_1505.out
+# Rscript ./binc_1506.R > binc_1506.out
+# Rscript ./binc_1507.R > binc_1507.out
+# Rscript ./binc_1508.R > binc_1508.out
+# Rscript ./binc_1509.R > binc_1509.out
+
+# Rscript ./binc_1510.R > binc_1510.out
+# Rscript ./binc_1511.R > binc_1511.out
+# Rscript ./binc_1512.R > binc_1512.out
+# Rscript ./binc_1513.R > binc_1513.out
+# Rscript ./binc_1514.R > binc_1514.out
+# Rscript ./binc_1515.R > binc_1515.out
+# Rscript ./binc_1516.R > binc_1516.out
+# Rscript ./binc_1517.R > binc_1517.out
+# Rscript ./binc_1518.R > binc_1518.out
+# Rscript ./binc_1519.R > binc_1519.out
+
+# Rscript ./binc_1520.R > binc_1520.out
+# Rscript ./binc_1521.R > binc_1521.out
+# Rscript ./binc_1522.R > binc_1522.out
+# Rscript ./binc_1523.R > binc_1523.out
+# Rscript ./binc_1524.R > binc_1524.out
+# Rscript ./binc_1525.R > binc_1525.out
+# Rscript ./binc_1526.R > binc_1526.out
+# Rscript ./binc_1527.R > binc_1527.out
+# Rscript ./binc_1528.R > binc_1528.out
+# Rscript ./binc_1529.R > binc_1529.out
+
+# Rscript ./binc_1530.R > binc_1530.out
+# Rscript ./binc_1531.R > binc_1531.out
+# Rscript ./binc_1532.R > binc_1532.out
+# Rscript ./binc_1533.R > binc_1533.out
+# Rscript ./binc_1534.R > binc_1534.out
+# Rscript ./binc_1535.R > binc_1535.out
+# Rscript ./binc_1536.R > binc_1536.out
+# Rscript ./binc_1537.R > binc_1537.out
+# Rscript ./binc_1538.R > binc_1537.out
+# Rscript ./binc_1539.R > binc_1539.out
+
+# Rscript ./binc_1540.R > binc_1540.out
+# Rscript ./binc_1541.R > binc_1541.out
+# Rscript ./binc_1542.R > binc_1542.out
+# Rscript ./binc_1543.R > binc_1543.out
+# Rscript ./binc_1544.R > binc_1544.out
+# Rscript ./binc_1545.R > binc_1545.out
+# Rscript ./binc_1546.R > binc_1546.out
+# Rscript ./binc_1547.R > binc_1547.out
+# Rscript ./binc_1548.R > binc_1548.out
+# Rscript ./binc_1549.R > binc_1549.out
+
+# Rscript ./binc_1550.R > binc_1550.out
+# Rscript ./binc_1551.R > binc_1551.out
+# Rscript ./binc_1552.R > binc_1552.out
+# Rscript ./binc_1553.R > binc_1553.out
+# Rscript ./binc_1554.R > binc_1554.out
+# Rscript ./binc_1555.R > binc_1555.out
+# Rscript ./binc_1556.R > binc_1556.out
+# Rscript ./binc_1557.R > binc_1557.out
+# Rscript ./binc_1558.R > binc_1558.out
+# Rscript ./binc_1559.R > binc_1559.out
+
+# Rscript ./binc_1560.R > binc_1560.out
+# Rscript ./binc_1561.R > binc_1561.out
+# Rscript ./binc_1562.R > binc_1562.out
+# Rscript ./binc_1563.R > binc_1563.out
+# Rscript ./binc_1564.R > binc_1564.out
+# Rscript ./binc_1565.R > binc_1565.out
+# Rscript ./binc_1566.R > binc_1566.out
+# Rscript ./binc_1567.R > binc_1567.out
+# Rscript ./binc_1568.R > binc_1568.out
+# Rscript ./binc_1569.R > binc_1569.out
+
+# Rscript ./binc_1570.R > binc_1570.out
+# Rscript ./binc_1571.R > binc_1571.out
+# Rscript ./binc_1572.R > binc_1572.out
+# Rscript ./binc_1573.R > binc_1573.out
+# Rscript ./binc_1574.R > binc_1574.out
+# Rscript ./binc_1575.R > binc_1575.out
+# Rscript ./binc_1576.R > binc_1576.out
+# Rscript ./binc_1577.R > binc_1577.out
+# Rscript ./binc_1578.R > binc_1578.out
+# Rscript ./binc_1579.R > binc_1579.out
+
+# Rscript ./binc_1580.R > binc_1580.out
+# Rscript ./binc_1581.R > binc_1581.out
+# Rscript ./binc_1582.R > binc_1582.out
+# Rscript ./binc_1583.R > binc_1583.out
+# Rscript ./binc_1584.R > binc_1584.out
+# Rscript ./binc_1585.R > binc_1585.out
+# Rscript ./binc_1586.R > binc_1586.out
+# Rscript ./binc_1587.R > binc_1587.out
+# Rscript ./binc_1588.R > binc_1588.out
+# Rscript ./binc_1589.R > binc_1589.out
+
+# Rscript ./binc_1590.R > binc_1590.out
+# Rscript ./binc_1591.R > binc_1591.out
+# Rscript ./binc_1592.R > binc_1592.out
+# Rscript ./binc_1593.R > binc_1593.out
+# Rscript ./binc_1594.R > binc_1594.out
+# Rscript ./binc_1595.R > binc_1595.out
+# Rscript ./binc_1596.R > binc_1596.out
+# Rscript ./binc_1597.R > binc_1597.out
+# Rscript ./binc_1598.R > binc_1598.out
+# Rscript ./binc_1599.R > binc_1599.out
+
+# Rscript ./binc_1600.R > binc_1600.out
+# Rscript ./binc_1601.R > binc_1601.out
+# Rscript ./binc_1602.R > binc_1602.out
+# Rscript ./binc_1603.R > binc_1603.out
+# Rscript ./binc_1604.R > binc_1604.out
+# Rscript ./binc_1605.R > binc_1605.out
+# Rscript ./binc_1606.R > binc_1606.out
+# Rscript ./binc_1607.R > binc_1607.out
+# Rscript ./binc_1608.R > binc_1608.out
+# Rscript ./binc_1609.R > binc_1609.out
+
+# Rscript ./binc_1610.R > binc_1610.out
+# Rscript ./binc_1611.R > binc_1611.out
+# Rscript ./binc_1612.R > binc_1612.out
+# Rscript ./binc_1613.R > binc_1613.out
+# Rscript ./binc_1614.R > binc_1614.out
+# Rscript ./binc_1615.R > binc_1615.out
+# Rscript ./binc_1616.R > binc_1616.out
+# Rscript ./binc_1617.R > binc_1617.out
+# Rscript ./binc_1618.R > binc_1618.out
+# Rscript ./binc_1619.R > binc_1619.out
+
+# Rscript ./binc_1620.R > binc_1620.out
+# Rscript ./binc_1621.R > binc_1621.out
+# Rscript ./binc_1622.R > binc_1622.out
+# Rscript ./binc_1623.R > binc_1623.out
+# Rscript ./binc_1624.R > binc_1624.out
+# Rscript ./binc_1625.R > binc_1625.out
+# Rscript ./binc_1626.R > binc_1626.out
+# Rscript ./binc_1627.R > binc_1627.out
+# Rscript ./binc_1628.R > binc_1628.out
+# Rscript ./binc_1629.R > binc_1629.out
+
+# Rscript ./binc_1630.R > binc_1630.out
+# Rscript ./binc_1631.R > binc_1631.out
+# Rscript ./binc_1632.R > binc_1632.out
+# Rscript ./binc_1633.R > binc_1633.out
+# Rscript ./binc_1634.R > binc_1634.out
+# Rscript ./binc_1635.R > binc_1635.out
+# Rscript ./binc_1636.R > binc_1636.out
+# Rscript ./binc_1637.R > binc_1637.out
+# Rscript ./binc_1638.R > binc_1637.out
+# Rscript ./binc_1639.R > binc_1639.out
+
+# Rscript ./binc_1640.R > binc_1640.out
+# Rscript ./binc_1641.R > binc_1641.out
+# Rscript ./binc_1642.R > binc_1642.out
+# Rscript ./binc_1643.R > binc_1643.out
+# Rscript ./binc_1644.R > binc_1644.out
+# Rscript ./binc_1645.R > binc_1645.out
+# Rscript ./binc_1646.R > binc_1646.out
+# Rscript ./binc_1647.R > binc_1647.out
+# Rscript ./binc_1648.R > binc_1648.out
+# Rscript ./binc_1649.R > binc_1649.out
+
+# Rscript ./binc_1650.R > binc_1650.out
+# Rscript ./binc_1651.R > binc_1651.out
+# Rscript ./binc_1652.R > binc_1652.out
+# Rscript ./binc_1653.R > binc_1653.out
+# Rscript ./binc_1654.R > binc_1654.out
+# Rscript ./binc_1655.R > binc_1655.out
+# Rscript ./binc_1656.R > binc_1656.out
+# Rscript ./binc_1657.R > binc_1657.out
+# Rscript ./binc_1658.R > binc_1658.out
+# Rscript ./binc_1659.R > binc_1659.out
+
+# Rscript ./binc_1660.R > binc_1660.out
+# Rscript ./binc_1661.R > binc_1661.out
+# Rscript ./binc_1662.R > binc_1662.out
+# Rscript ./binc_1663.R > binc_1663.out
+# Rscript ./binc_1664.R > binc_1664.out
+# Rscript ./binc_1665.R > binc_1665.out
+# Rscript ./binc_1666.R > binc_1666.out
+# Rscript ./binc_1667.R > binc_1667.out
+# Rscript ./binc_1668.R > binc_1668.out
+# Rscript ./binc_1669.R > binc_1669.out
+
+# Rscript ./binc_1670.R > binc_1670.out
+# Rscript ./binc_1671.R > binc_1671.out
+# Rscript ./binc_1672.R > binc_1672.out
+# Rscript ./binc_1673.R > binc_1673.out
+# Rscript ./binc_1674.R > binc_1674.out
+# Rscript ./binc_1675.R > binc_1675.out
+# Rscript ./binc_1676.R > binc_1676.out
+# Rscript ./binc_1677.R > binc_1677.out
+# Rscript ./binc_1678.R > binc_1678.out
+# Rscript ./binc_1679.R > binc_1679.out
+
+# Rscript ./binc_1680.R > binc_1680.out
+# Rscript ./binc_1681.R > binc_1681.out
+# Rscript ./binc_1682.R > binc_1682.out
+# Rscript ./binc_1683.R > binc_1683.out
+# Rscript ./binc_1684.R > binc_1684.out
+# Rscript ./binc_1685.R > binc_1685.out
+# Rscript ./binc_1686.R > binc_1686.out
+# Rscript ./binc_1687.R > binc_1687.out
+# Rscript ./binc_1688.R > binc_1688.out
+# Rscript ./binc_1689.R > binc_1689.out
+
+# Rscript ./binc_1690.R > binc_1690.out
+# Rscript ./binc_1691.R > binc_1691.out
+# Rscript ./binc_1692.R > binc_1692.out
+# Rscript ./binc_1693.R > binc_1693.out
+# Rscript ./binc_1694.R > binc_1694.out
+# Rscript ./binc_1695.R > binc_1695.out
+# Rscript ./binc_1696.R > binc_1696.out
+# Rscript ./binc_1697.R > binc_1697.out
+# Rscript ./binc_1698.R > binc_1698.out
+# Rscript ./binc_1699.R > binc_1699.out
+
+# Rscript ./binc_1700.R > binc_1700.out
+# Rscript ./binc_1701.R > binc_1701.out
+# Rscript ./binc_1702.R > binc_1702.out
+# Rscript ./binc_1703.R > binc_1703.out
+# Rscript ./binc_1704.R > binc_1704.out
+# Rscript ./binc_1705.R > binc_1705.out
+# Rscript ./binc_1706.R > binc_1706.out
+# Rscript ./binc_1707.R > binc_1707.out
+# Rscript ./binc_1708.R > binc_1708.out
+# Rscript ./binc_1709.R > binc_1709.out
+
+# Rscript ./binc_1710.R > binc_1710.out
+# Rscript ./binc_1711.R > binc_1711.out
+# Rscript ./binc_1712.R > binc_1712.out
+# Rscript ./binc_1713.R > binc_1713.out
+# Rscript ./binc_1714.R > binc_1714.out
+# Rscript ./binc_1715.R > binc_1715.out
+# Rscript ./binc_1716.R > binc_1716.out
+# Rscript ./binc_1717.R > binc_1717.out
+# Rscript ./binc_1718.R > binc_1718.out
+# Rscript ./binc_1719.R > binc_1719.out
+
+# Rscript ./binc_1720.R > binc_1720.out
+# Rscript ./binc_1721.R > binc_1721.out
+# Rscript ./binc_1722.R > binc_1722.out
+# Rscript ./binc_1723.R > binc_1723.out
+# Rscript ./binc_1724.R > binc_1724.out
+# Rscript ./binc_1725.R > binc_1725.out
+# Rscript ./binc_1726.R > binc_1726.out
+# Rscript ./binc_1727.R > binc_1727.out
+# Rscript ./binc_1728.R > binc_1728.out
+# Rscript ./binc_1729.R > binc_1729.out
+
+# Rscript ./binc_1730.R > binc_1730.out
+# Rscript ./binc_1731.R > binc_1731.out
+# Rscript ./binc_1732.R > binc_1732.out
+# Rscript ./binc_1733.R > binc_1733.out
+# Rscript ./binc_1734.R > binc_1734.out
+# Rscript ./binc_1735.R > binc_1735.out
+# Rscript ./binc_1736.R > binc_1736.out
+# Rscript ./binc_1737.R > binc_1737.out
+# Rscript ./binc_1738.R > binc_1737.out
+# Rscript ./binc_1739.R > binc_1739.out
+
+# Rscript ./binc_1740.R > binc_1740.out
+# Rscript ./binc_1741.R > binc_1741.out
+# Rscript ./binc_1742.R > binc_1742.out
+# Rscript ./binc_1743.R > binc_1743.out
+# Rscript ./binc_1744.R > binc_1744.out
+# Rscript ./binc_1745.R > binc_1745.out
+# Rscript ./binc_1746.R > binc_1746.out
+# Rscript ./binc_1747.R > binc_1747.out
+# Rscript ./binc_1748.R > binc_1748.out
+# Rscript ./binc_1749.R > binc_1749.out
+
+# Rscript ./binc_1750.R > binc_1750.out
+# Rscript ./binc_1751.R > binc_1751.out
+# Rscript ./binc_1752.R > binc_1752.out
+# Rscript ./binc_1753.R > binc_1753.out
+# Rscript ./binc_1754.R > binc_1754.out
+# Rscript ./binc_1755.R > binc_1755.out
+# Rscript ./binc_1756.R > binc_1756.out
+# Rscript ./binc_1757.R > binc_1757.out
+# Rscript ./binc_1758.R > binc_1758.out
+# Rscript ./binc_1759.R > binc_1759.out
+
+# Rscript ./binc_1760.R > binc_1760.out
+# Rscript ./binc_1761.R > binc_1761.out
+# Rscript ./binc_1762.R > binc_1762.out
+# Rscript ./binc_1763.R > binc_1763.out
+# Rscript ./binc_1764.R > binc_1764.out
+
+# Rscript ./binc_1765.R > binc_1765.out
+# Rscript ./binc_1766.R > binc_1766.out
+# Rscript ./binc_1767.R > binc_1767.out
+# Rscript ./binc_1768.R > binc_1768.out
+# Rscript ./binc_1769.R > binc_1769.out
+
+# Rscript ./binc_1770.R > binc_1770.out
+# Rscript ./binc_1771.R > binc_1771.out
+# Rscript ./binc_1772.R > binc_1772.out
+# Rscript ./binc_1773.R > binc_1773.out
+# Rscript ./binc_1774.R > binc_1774.out
+# Rscript ./binc_1775.R > binc_1775.out
+# Rscript ./binc_1776.R > binc_1776.out
+# Rscript ./binc_1777.R > binc_1777.out
+# Rscript ./binc_1778.R > binc_1778.out
+# Rscript ./binc_1779.R > binc_1779.out
+
+# Rscript ./binc_1780.R > binc_1780.out
+# Rscript ./binc_1781.R > binc_1781.out
+# Rscript ./binc_1782.R > binc_1782.out
+# Rscript ./binc_1783.R > binc_1783.out
+# Rscript ./binc_1784.R > binc_1784.out
+# Rscript ./binc_1785.R > binc_1785.out
+# Rscript ./binc_1786.R > binc_1786.out
+# Rscript ./binc_1787.R > binc_1787.out
+# Rscript ./binc_1788.R > binc_1788.out
+# Rscript ./binc_1789.R > binc_1789.out
+
+# Rscript ./binc_1790.R > binc_1790.out
+# Rscript ./binc_1791.R > binc_1791.out
+# Rscript ./binc_1792.R > binc_1792.out
+# Rscript ./binc_1793.R > binc_1793.out
+# Rscript ./binc_1794.R > binc_1794.out
+# Rscript ./binc_1795.R > binc_1795.out
+# Rscript ./binc_1796.R > binc_1796.out
+# Rscript ./binc_1797.R > binc_1797.out
+# Rscript ./binc_1798.R > binc_1798.out
+# Rscript ./binc_1799.R > binc_1799.out
+
+# Rscript ./binc_1800.R > binc_1800.out
+# Rscript ./binc_1801.R > binc_1801.out
+# Rscript ./binc_1802.R > binc_1802.out
+# Rscript ./binc_1803.R > binc_1803.out
+# Rscript ./binc_1804.R > binc_1804.out
+# Rscript ./binc_1805.R > binc_1805.out
+# Rscript ./binc_1806.R > binc_1806.out
+# Rscript ./binc_1807.R > binc_1807.out
+# Rscript ./binc_1808.R > binc_1808.out
+# Rscript ./binc_1809.R > binc_1809.out
+
+# Rscript ./binc_1810.R > binc_1810.out
+# Rscript ./binc_1811.R > binc_1811.out
+# Rscript ./binc_1812.R > binc_1812.out
+# Rscript ./binc_1813.R > binc_1813.out
+# Rscript ./binc_1814.R > binc_1814.out
+# Rscript ./binc_1815.R > binc_1815.out
+# Rscript ./binc_1816.R > binc_1816.out
+# Rscript ./binc_1817.R > binc_1817.out
+# Rscript ./binc_1818.R > binc_1818.out
+# Rscript ./binc_1819.R > binc_1819.out
+
+# Rscript ./binc_1820.R > binc_1820.out
+# Rscript ./binc_1821.R > binc_1821.out
+# Rscript ./binc_1822.R > binc_1822.out
+# Rscript ./binc_1823.R > binc_1823.out
+# Rscript ./binc_1824.R > binc_1824.out
+# Rscript ./binc_1825.R > binc_1825.out
+# Rscript ./binc_1826.R > binc_1826.out
+# Rscript ./binc_1827.R > binc_1827.out
+# Rscript ./binc_1828.R > binc_1828.out
+# Rscript ./binc_1829.R > binc_1829.out
+
+# Rscript ./binc_1830.R > binc_1830.out
+# Rscript ./binc_1831.R > binc_1831.out
+# Rscript ./binc_1832.R > binc_1832.out
+# Rscript ./binc_1833.R > binc_1833.out
+# Rscript ./binc_1834.R > binc_1834.out
+# Rscript ./binc_1835.R > binc_1835.out
+# Rscript ./binc_1836.R > binc_1836.out
+# Rscript ./binc_1837.R > binc_1837.out
+# Rscript ./binc_1838.R > binc_1837.out
+# Rscript ./binc_1839.R > binc_1839.out
+
+# Rscript ./binc_1840.R > binc_1840.out
+# Rscript ./binc_1841.R > binc_1841.out
+# Rscript ./binc_1842.R > binc_1842.out
+# Rscript ./binc_1843.R > binc_1843.out
+# Rscript ./binc_1844.R > binc_1844.out
+# Rscript ./binc_1845.R > binc_1845.out
+# Rscript ./binc_1846.R > binc_1846.out
+# Rscript ./binc_1847.R > binc_1847.out
+# Rscript ./binc_1848.R > binc_1848.out
+# Rscript ./binc_1849.R > binc_1849.out
+
+# Rscript ./binc_1850.R > binc_1850.out
+# Rscript ./binc_1851.R > binc_1851.out
+# Rscript ./binc_1852.R > binc_1852.out
+# Rscript ./binc_1853.R > binc_1853.out
+# Rscript ./binc_1854.R > binc_1854.out
+# Rscript ./binc_1855.R > binc_1855.out
+# Rscript ./binc_1856.R > binc_1856.out
+
+Rscript ./binc_1857.R > binc_1857.out
+Rscript ./binc_1858.R > binc_1858.out
+Rscript ./binc_1859.R > binc_1859.out
+
+Rscript ./binc_1860.R > binc_1860.out
+Rscript ./binc_1861.R > binc_1861.out
+Rscript ./binc_1862.R > binc_1862.out
+Rscript ./binc_1863.R > binc_1863.out
+Rscript ./binc_1864.R > binc_1864.out
+Rscript ./binc_1865.R > binc_1865.out
+Rscript ./binc_1866.R > binc_1866.out
+Rscript ./binc_1867.R > binc_1867.out
+Rscript ./binc_1868.R > binc_1868.out
+Rscript ./binc_1869.R > binc_1869.out
+
+Rscript ./binc_1870.R > binc_1870.out
+Rscript ./binc_1871.R > binc_1871.out
+Rscript ./binc_1872.R > binc_1872.out
+Rscript ./binc_1873.R > binc_1873.out
+Rscript ./binc_1874.R > binc_1874.out
+Rscript ./binc_1875.R > binc_1875.out
+Rscript ./binc_1876.R > binc_1876.out
+Rscript ./binc_1877.R > binc_1877.out
+Rscript ./binc_1878.R > binc_1878.out
+Rscript ./binc_1879.R > binc_1879.out
+
+Rscript ./binc_1880.R > binc_1880.out
+Rscript ./binc_1881.R > binc_1881.out
+Rscript ./binc_1882.R > binc_1882.out
+Rscript ./binc_1883.R > binc_1883.out
+Rscript ./binc_1884.R > binc_1884.out
+Rscript ./binc_1885.R > binc_1885.out
+Rscript ./binc_1886.R > binc_1886.out
+Rscript ./binc_1887.R > binc_1887.out
+Rscript ./binc_1888.R > binc_1888.out
+Rscript ./binc_1889.R > binc_1889.out
+
+Rscript ./binc_1890.R > binc_1890.out
+Rscript ./binc_1891.R > binc_1891.out
+Rscript ./binc_1892.R > binc_1892.out
+Rscript ./binc_1893.R > binc_1893.out
+Rscript ./binc_1894.R > binc_1894.out
+Rscript ./binc_1895.R > binc_1895.out
+Rscript ./binc_1896.R > binc_1896.out
+Rscript ./binc_1897.R > binc_1897.out
+Rscript ./binc_1898.R > binc_1898.out
+Rscript ./binc_1899.R > binc_1899.out
+
+Rscript ./binc_1900.R > binc_1900.out
+Rscript ./binc_1901.R > binc_1901.out
+Rscript ./binc_1902.R > binc_1902.out
+Rscript ./binc_1903.R > binc_1903.out
+Rscript ./binc_1904.R > binc_1904.out
+Rscript ./binc_1905.R > binc_1905.out
+Rscript ./binc_1906.R > binc_1906.out
+Rscript ./binc_1907.R > binc_1907.out
+Rscript ./binc_1908.R > binc_1908.out
+Rscript ./binc_1909.R > binc_1909.out
+
+Rscript ./binc_1910.R > binc_1910.out
+Rscript ./binc_1911.R > binc_1911.out
+Rscript ./binc_1912.R > binc_1912.out
+Rscript ./binc_1913.R > binc_1913.out
+Rscript ./binc_1914.R > binc_1914.out
+Rscript ./binc_1915.R > binc_1915.out
+Rscript ./binc_1916.R > binc_1916.out
+Rscript ./binc_1917.R > binc_1917.out
+Rscript ./binc_1918.R > binc_1918.out
+Rscript ./binc_1919.R > binc_1919.out
+
+Rscript ./binc_1920.R > binc_1920.out
+Rscript ./binc_1921.R > binc_1921.out
+Rscript ./binc_1922.R > binc_1922.out
+Rscript ./binc_1923.R > binc_1923.out
+Rscript ./binc_1924.R > binc_1924.out
+Rscript ./binc_1925.R > binc_1925.out
+Rscript ./binc_1926.R > binc_1926.out
+Rscript ./binc_1927.R > binc_1927.out
+Rscript ./binc_1928.R > binc_1928.out
+Rscript ./binc_1929.R > binc_1929.out
+
+Rscript ./binc_1930.R > binc_1930.out
+Rscript ./binc_1931.R > binc_1931.out
+Rscript ./binc_1932.R > binc_1932.out
+Rscript ./binc_1933.R > binc_1933.out
+Rscript ./binc_1934.R > binc_1934.out
+Rscript ./binc_1935.R > binc_1935.out
+Rscript ./binc_1936.R > binc_1936.out
+Rscript ./binc_1937.R > binc_1937.out
+Rscript ./binc_1938.R > binc_1937.out
+Rscript ./binc_1939.R > binc_1939.out
+
+Rscript ./binc_1940.R > binc_1940.out
+Rscript ./binc_1941.R > binc_1941.out
+Rscript ./binc_1942.R > binc_1942.out
+Rscript ./binc_1943.R > binc_1943.out
+Rscript ./binc_1944.R > binc_1944.out
+Rscript ./binc_1945.R > binc_1945.out
+Rscript ./binc_1946.R > binc_1946.out
+Rscript ./binc_1947.R > binc_1947.out
+Rscript ./binc_1948.R > binc_1948.out
+Rscript ./binc_1949.R > binc_1949.out
+
+Rscript ./binc_1950.R > binc_1950.out
+Rscript ./binc_1951.R > binc_1951.out
+Rscript ./binc_1952.R > binc_1952.out
+Rscript ./binc_1953.R > binc_1953.out
+Rscript ./binc_1954.R > binc_1954.out
+Rscript ./binc_1955.R > binc_1955.out
+Rscript ./binc_1956.R > binc_1956.out
+Rscript ./binc_1957.R > binc_1957.out
+Rscript ./binc_1958.R > binc_1958.out
+Rscript ./binc_1959.R > binc_1959.out
+
+Rscript ./binc_1960.R > binc_1960.out
+Rscript ./binc_1961.R > binc_1961.out
+Rscript ./binc_1962.R > binc_1962.out
+Rscript ./binc_1963.R > binc_1963.out
+Rscript ./binc_1964.R > binc_1964.out
+Rscript ./binc_1965.R > binc_1965.out
+Rscript ./binc_1966.R > binc_1966.out
+Rscript ./binc_1967.R > binc_1967.out
+Rscript ./binc_1968.R > binc_1968.out
+Rscript ./binc_1969.R > binc_1969.out
+
+Rscript ./binc_1970.R > binc_1970.out
+Rscript ./binc_1971.R > binc_1971.out
+Rscript ./binc_1972.R > binc_1972.out
+Rscript ./binc_1973.R > binc_1973.out
+Rscript ./binc_1974.R > binc_1974.out
+Rscript ./binc_1975.R > binc_1975.out
+Rscript ./binc_1976.R > binc_1976.out
+Rscript ./binc_1977.R > binc_1977.out
+Rscript ./binc_1978.R > binc_1978.out
+Rscript ./binc_1979.R > binc_1979.out
+
+Rscript ./binc_1980.R > binc_1980.out
+Rscript ./binc_1981.R > binc_1981.out
+Rscript ./binc_1982.R > binc_1982.out
+Rscript ./binc_1983.R > binc_1983.out
+Rscript ./binc_1984.R > binc_1984.out
+Rscript ./binc_1985.R > binc_1985.out
+Rscript ./binc_1986.R > binc_1986.out
+Rscript ./binc_1987.R > binc_1987.out
+Rscript ./binc_1988.R > binc_1988.out
+Rscript ./binc_1989.R > binc_1989.out
+
+Rscript ./binc_1990.R > binc_1990.out
+Rscript ./binc_1991.R > binc_1991.out
+Rscript ./binc_1992.R > binc_1992.out
+Rscript ./binc_1993.R > binc_1993.out
+Rscript ./binc_1994.R > binc_1994.out
+Rscript ./binc_1995.R > binc_1995.out
+Rscript ./binc_1996.R > binc_1996.out
+Rscript ./binc_1997.R > binc_1997.out
+Rscript ./binc_1998.R > binc_1998.out
+Rscript ./binc_1999.R > binc_1999.out
+
+Rscript ./binc_2000.R > binc_2000.out

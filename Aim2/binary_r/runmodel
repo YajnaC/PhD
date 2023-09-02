@@ -1,0 +1,5 @@
+# Run my programs
+
+Rscript ./binary_modelr_200.R > binary_modelr_200.out
+Rscript ./binary_modelr_500.R > binary_modelr_500.out
+Rscript ./binary_modelr_700.R > binary_modelr_700.out
